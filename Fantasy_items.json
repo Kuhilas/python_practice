@@ -1,0 +1,10 @@
+{
+    "name": "Flaming Sword",
+    "price": 5000,
+    "weight": 20,
+    "is_magical": true,
+    "damage": [
+        20,
+        50
+    ]
+}
