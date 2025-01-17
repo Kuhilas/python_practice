@@ -1,0 +1,1 @@
+This is a sample text file for exercise file #5 for sorting the different words from a .txt file. 
